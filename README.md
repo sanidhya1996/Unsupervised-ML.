@@ -171,5 +171,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Contact Information
 Author: Sanidhya Shekhar
 Email: sanidhyashekhar1996@gmail.com
-LinkedIn: Sanidhya Shekhar's Profile
-GitHub: Sanidhya Shekhar's GitHub
+LinkedIn: linkedin.com/in/sanidhya-shekhar
+GitHub: github.com/sanidhya1996
